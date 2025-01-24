@@ -9,6 +9,6 @@ J'ai aussi jouer au footsalle aussi durant les périodes de diners. C'était bea
 
 Dans mes temps libres, je suis pianist et chez moi j'ai un piano que j'utilise pour créer des beats. Sinon, je dors ou je serais en train d'écouter des films ou mes animes préférés.
 
-
+![photo](anime.jpg)
 
 
