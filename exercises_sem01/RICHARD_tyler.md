@@ -13,5 +13,5 @@ Dans mes temps libres, je suis pianist et chez moi j'ai un piano que j'utilise p
 Au début du secondaire, j'étais vraiment dans les animes. J'aimais plus les shonens. Si vous ne savez pas c'est quoi un shonen cliquez ici <https://fr.wikipedia.org/wiki/Sh%C5%8Dnen>
 Bref, mon anime préféré pour longtemps c'était Naruto. Surement parce que c'était le premier anime que j'ai regardé dans ma vie et j'ai vraiment aimé. J'ai tellement aimé l'anime que je n'étais pas trop intéressé à en regarder d'autres. Éventuellement, j'ai finis par regarder d'autres animes comme Attack on Titans, My hero academia, Black clover, etc. Je dirais que vraiment les animes m'ont gardés intrigués pendant mes années au secondaire. Maintenant, je n'est pas grand temps pour en écouter. J'ai arrêté éventuellement d'en écouter parce que mon horaire est chargé. Sinon, j'aime faire de l'argent, mais je n'aime pas mon emploi. Vraiment si je pouvais faire de l'argent ailleurs, je serais partis, mais pour maintenant je vais rester et épargner, car je compte commencer mon permis après que j'aille fini avec cette session.
 
-
+<https://youtu.be/qegp2LHzGfU?si=FsXoO8rHjq-sk-Kf>
 ## Merci!!
