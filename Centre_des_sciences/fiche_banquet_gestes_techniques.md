@@ -8,6 +8,8 @@ Il y a un écran avec une video d’une madame qui nous explique la technique po
 
 ## Voici des vidéos de mon expérience:
 https://youtube.com/shorts/ru2syq00gMw?feature=share
+https://youtube.com/shorts/Y9c0AqjYx9Q?feature=share
+https://youtube.com/shorts/UNLjkMNhvcU?feature=share
 
 ## L'assemble de l'oeuvre:
 ![Image](medias/materiel.jpg)
