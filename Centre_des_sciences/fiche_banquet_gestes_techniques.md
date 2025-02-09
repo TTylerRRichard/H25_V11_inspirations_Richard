@@ -14,7 +14,11 @@ https://youtube.com/shorts/UNLjkMNhvcU?feature=share
 ## L'assemble de l'oeuvre:
 ![Image](medias/materiel.jpg)
 
-
+## Composantes et techniques:
+-Écran
+-Un brasseur avec un file attaché en bas
+-Un bol équippé avec un senseur
+-Un boutton <<Start/Débuter>>
 
 
 ## Ce qui m'a plu:
