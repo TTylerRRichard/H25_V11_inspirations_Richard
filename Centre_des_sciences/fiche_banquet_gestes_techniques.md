@@ -31,6 +31,9 @@ J'ai vraiment aimé l'expérience de préparer la crème. Ce qui m'a le plus mar
 ## Ce que je changerais:
 Globalement, l'oeuvre est amusante. Le seul problème que j'avais c'était que je n'entendais pas assez ce que la madame dams la vidéo disait. Donc, si cela était mon oeuvre, je m'aurais assurer que le volume est assez fort pour les visiteurs qui viennent expérimenter.
 
+![Image](medias/banquet_credit.jpg)
+
+
 ### Autres:
 Date de visite: 31 Janvier 2025 
 Année de réalisation: 2021
