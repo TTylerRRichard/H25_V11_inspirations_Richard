@@ -37,3 +37,5 @@ Globalement, l'oeuvre est amusante. Le seul problème que j'avais c'était que j
 ### Autres:
 Date de visite: 31 Janvier 2025 
 Année de réalisation: 2021
+
+![Image](medias/entrer_banquet.jpg)
