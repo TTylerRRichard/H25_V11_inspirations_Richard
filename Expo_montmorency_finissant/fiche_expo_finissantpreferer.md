@@ -1,4 +1,4 @@
 ## L'exposition des finissants ##
-### Mon préféré ###
+### Mon préféré: Luminatura ###
 
 
