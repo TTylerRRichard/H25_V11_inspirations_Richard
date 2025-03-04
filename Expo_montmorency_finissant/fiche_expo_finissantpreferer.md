@@ -7,13 +7,13 @@ Voici un lien vers une vidéo explicative de Luminatura: https://youtu.be/i6xJno
 Voici un lien vers une vidéo demonstrative: https://youtube.com/shorts/1kCxPRZF66o?feature=share
 https://youtube.com/shorts/Y906fyyebAM?feature=share
 
-
+##Description##
 Luminatura est un projet multimédia des finissants qui fusionne la nature et la technologie. Son objectif principal est d'explorer l'interaction entre la nature et les humains à travers le concept de capacitance. Pour ceux qui ne savent pas c'est quoi vous pouvez cliquez ici: https://en.wikipedia.org/wiki/Capacitance#:~:text=Capacitance%20is%20the%20ability%20of,self%20capacitance%20and%20mutual%20capacitance.
 
 un phénomène physique qui permet de stocker et de transférer de l'énergie. À travers des installations immersives, Luminatura invite les participants à entrer en contact direct avec des éléments naturels tout en interagissant avec des dispositifs technologiques qui réagissent à la capacité de leur propre corps à conduire l'énergie.
 
 
-Ils se sont inspiré des lumières captivante de forest of resonating lamps one stroke ainsi que de l'oeuvre pulse room par Rafael Lozano Hemmer.
+Pour ce projet, ils se sont inspiré des lumières captivante de forest of resonating lamps one stroke ainsi que de l'oeuvre pulse room par Rafael Lozano Hemmer.
 
 https://youtube.com/shorts/ExrjkvTPhsw?feature=share
 
