@@ -36,8 +36,26 @@ Voici le schéma d'installation:
 
 
 # 3: Prismatica #
+Développeur interactif: Vincent Delisle
+
+Directeur artistique: Jérémy Duverseau
+
+Chargée du projet: Ikrame Rata
+
+
+Voici le schéma d'installation:
 
 # 4: Fuga #
+
+ Directeur visuel: Daniel Dezmma
+
+Directeur sonore: Tristan Khadka
+
+Programmeur: Abdel ALi Djeral
+
+
+
+Voici le schéma d'installation:
 
 # 5: Internature #
 
