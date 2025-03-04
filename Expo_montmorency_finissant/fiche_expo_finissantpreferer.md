@@ -16,7 +16,7 @@ un phénomène physique qui permet de stocker et de transférer de l'énergie. �
 Pour ce projet, ils se sont inspiré des lumières captivante de forest of resonating lamps one stroke ainsi que de l'oeuvre pulse room par Rafael Lozano Hemmer.
 
 Dans cette image, vous pouvez voir une tablette noir. Grâce à cette tablette, nous, les participants, avons la possibilité d'illuminer les plantes de différentes couleurs. En effet, chaque fois que nous touchons la tablette, elle envoie un signal qui envoie surement un message au projecteur qui lui fait en sorte que les plantes s'illument de couleurs différentes.
-------------------------------------------------
+
 ![Image](medias/luminatura_materiel.jpg)
 
 https://youtube.com/shorts/ExrjkvTPhsw?feature=share
