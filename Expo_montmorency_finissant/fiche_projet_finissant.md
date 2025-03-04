@@ -35,6 +35,7 @@ Voici le schéma d'installation:
 Voici le schéma d'installation:
 
 
+
 # 3: Prismatica #
 Développeur interactif: Vincent Delisle
 
@@ -44,6 +45,9 @@ Chargée du projet: Ikrame Rata
 
 
 Voici le schéma d'installation:
+
+
+
 
 # 4: Fuga #
 
@@ -57,10 +61,41 @@ Programmeur: Abdel ALi Djeral
 
 Voici le schéma d'installation:
 
+
+
+
 # 5: Internature #
 
+Responsable de la gestion des ressources techniques, mapping vidéo, Conception sonore Sitmonternna Yi
+
+Gestion de l'organisation du projet, visuels, programmateuse de l'interactivité : Delphine Grenier
+
+ Responsable de la communication entre le numérique et le réel, programmeur :Isaac
+
+ Directeuse artistique, conception sonore :Kenza El Harrif
+ 
+ Design visuel, chargée du projet, programmateuse de lumière :Khaly Tia Sing
+
 # 6: CONDU U8 #
+Designer de niveaux: Ian Corbin
+
+Programmeur des méchanismes: Alexandre Gervais
+
+Programmeur interconnectivité: Jérémy Roy-Côté
+
+Responsable du développement technique: Kreven Malric
+
+Directeur artistiqueL Samuel Desmeules-Voyer
+
+Voici le schéma d'installation:
 
 # 7: Arcadia #
+Conception sonore: Dominic Yale
 
-# 8: Internature #
+Conception visuelle: William Beauvais
+
+Programmation: Anton Nikulin
+
+Voici le schéma d'installation:
+
+
