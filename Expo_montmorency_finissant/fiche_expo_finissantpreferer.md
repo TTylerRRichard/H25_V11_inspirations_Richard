@@ -13,7 +13,8 @@ Luminatura est un projet multimédia des finissants qui fusionne la nature et la
 un phénomène physique qui permet de stocker et de transférer de l'énergie. À travers des installations immersives, Luminatura invite les participants à entrer en contact direct avec des éléments naturels tout en interagissant avec des dispositifs technologiques qui réagissent à la capacité de leur propre corps à conduire l'énergie.
 
 
-Pour ce projet, ils se sont inspiré des lumières captivante de forest of resonating lamps one stroke ainsi que de l'oeuvre pulse room par Rafael Lozano Hemmer.
+Pour ce projet, ils se sont inspiré des lumières captivante de forest of resonating lamps one stroke ainsi que de l'oeuvre pulse room par Rafael Lozano Hemmer: https://www.teamlab.art/w/forest_of_resonating_lamps/
+https://www.lozano-hemmer.com/pulse_room.php
 
 Dans cette image, vous pouvez voir une tablette noir. Grâce à cette tablette, nous, les participants, avons la possibilité d'illuminer les plantes de différentes couleurs. En effet, chaque fois que nous touchons la tablette, elle envoie un signal qui envoie surement un message au projecteur qui lui fait en sorte que les plantes s'illument de couleurs différentes.
 
