@@ -1,6 +1,6 @@
 # Toutes les projets #
 
-# 1: Luminatura #
+## 1: Luminatura ##
 ### Créateurs/Créatrices: ###
  Directrice Artistique: Camilia Bouatmani
  ------
@@ -20,7 +20,7 @@ Voici le schéma d'installation:
 
 
 
-# 2: Etheria #
+## 2: Etheria ##
 ### Créateurs/Créatrices: ###
  Compositeur Sonore, programmeur: Maik Hamel
  ------
