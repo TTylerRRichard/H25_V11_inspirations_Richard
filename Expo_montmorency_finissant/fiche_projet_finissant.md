@@ -3,15 +3,15 @@
 ## 1: Luminatura ##
 ### Créateurs/Créatrices: ###
  Directrice Artistique: Camilia Bouatmani
- ------
+
  Programmeuse Administratrice du projet: Prethiah Rajaratnam
- ------
+
  Directrice Audio Visuel Gstionnaire du projet: Audrey Dandurand
- ------
+
  Programmeuse Coordonnatrice des medias: Justine Rousseau
- ---------
+
  Développeur interactif: Ihab Mouhajer
-------------
+
 Voici le schéma d'installation:
 
 
