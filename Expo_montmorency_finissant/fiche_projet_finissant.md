@@ -23,15 +23,15 @@ Voici le schéma d'installation:
 ## 2: Etheria ##
 ### Créateurs/Créatrices: ###
  Compositeur Sonore, programmeur: Maik Hamel
- ------
+
  Programmeur, Artiste VFX/ Design: Machael Un Dupré
- ------
+
  Programmeur, Artiste VFX/ Design, Artiste 3D: Pierre-Luc Proulx
- ------
+
  Programmeur, Artiste Design: Victor Gileau
- ---------
+
  Monteur Vidéo, Artiste Design, programmeur: Joshua Gonzalez Barrera
-------------
+
 Voici le schéma d'installation:
 
 
