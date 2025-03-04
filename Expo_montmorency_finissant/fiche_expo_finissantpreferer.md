@@ -6,7 +6,7 @@ Voici un lien vers une vidéo explicative de Luminatura: https://youtu.be/i6xJno
 
 Voici un lien vers une vidéo demonstrative: https://youtube.com/shorts/1kCxPRZF66o?feature=share
 https://youtube.com/shorts/Y906fyyebAM?feature=share
-
+-----------------------------------
 ##Description##
 Luminatura est un projet multimédia des finissants qui fusionne la nature et la technologie. Son objectif principal est d'explorer l'interaction entre la nature et les humains à travers le concept de capacitance. Pour ceux qui ne savent pas c'est quoi vous pouvez cliquez ici: https://en.wikipedia.org/wiki/Capacitance#:~:text=Capacitance%20is%20the%20ability%20of,self%20capacitance%20and%20mutual%20capacitance.
 
