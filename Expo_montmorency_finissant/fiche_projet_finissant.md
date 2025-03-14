@@ -33,8 +33,8 @@ https://miaou-mafia.github.io/projet-luminatura/#/20_intention/40_scenarimage/
 
  Monteur Vidéo, Artiste Design, programmeur: Joshua Gonzalez Barrera
 
-Voici le schéma d'installation:
-
+Voici un lien vers le schéma d'installation:
+https://ethereal-creators.github.io/Etheria/#/20_intention/40_scenarimage/
 
 
 # 3: Prismatica #
@@ -45,8 +45,8 @@ Directeur artistique: Jérémy Duverseau
 Chargée du projet: Ikrame Rata
 
 
-Voici le schéma d'installation:
-
+Voici un lien vers le schéma d'installation:
+https://pootpookies.github.io/Prismatica/#/20_intention/40_scenarimage/
 
 
 
@@ -60,9 +60,8 @@ Programmeur: Abdel ALi Djeral
 
 
 
-Voici le schéma d'installation:
-
-
+Voici un lien vers le schéma d'installation:
+https://escapism-fuga.github.io/Fuga/#/20_intention/40_scenarimage/
 
 
 # 5: Internature #
@@ -77,6 +76,10 @@ Gestion de l'organisation du projet, visuels, programmateuse de l'interactivité
  
  Design visuel, chargée du projet, programmateuse de lumière :Khaly Tia Sing
 
+ Voici un lien vers le schéma d'installation:
+https://tprangers.github.io/internature/#/20_intention/40_scenarimage/
+
+
 # 6: CONDU U8 #
 Designer de niveaux: Ian Corbin
 
@@ -88,7 +91,8 @@ Responsable du développement technique: Kreven Malric
 
 Directeur artistiqueL Samuel Desmeules-Voyer
 
-Voici le schéma d'installation:
+Voici un lien vers le schéma d'installation:
+https://gearshift-games.github.io/Web-C0N-DU8/#/20_intention/40_scenarimage/
 
 # 7: Arcadia #
 Conception sonore: Dominic Yale
@@ -97,6 +101,6 @@ Conception visuelle: William Beauvais
 
 Programmation: Anton Nikulin
 
-Voici le schéma d'installation:
-
+Voici un lien vers le schéma d'installation:
+https://cousi-cousa.github.io/Arcadia/#/20_intention/40_scenarimage/
 
