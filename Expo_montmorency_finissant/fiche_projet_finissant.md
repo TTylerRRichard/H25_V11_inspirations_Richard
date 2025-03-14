@@ -12,7 +12,8 @@
 
  Développeur interactif: Ihab Mouhajer
 
-Voici le schéma d'installation:
+Voici un lien vers le schéma d'installation:
+https://miaou-mafia.github.io/projet-luminatura/#/20_intention/40_scenarimage/
 
 
 
