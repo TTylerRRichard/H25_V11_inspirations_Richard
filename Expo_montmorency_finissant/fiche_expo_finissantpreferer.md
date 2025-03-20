@@ -21,6 +21,8 @@ Dans cette image, vous pouvez voir une tablette noir. Grâce à cette tablette, 
 
 ![Image](medias/luminatura_materiel.jpg)
 
+## Liens vers d'autres projets ##
+
 https://youtube.com/shorts/ExrjkvTPhsw?feature=share
 
 https://youtube.com/shorts/FMZVu0R0xGc?feature=share
