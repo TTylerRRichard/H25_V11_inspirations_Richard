@@ -1,7 +1,7 @@
 # L'exposition des finissants #
 ### Mon préféré: Luminatura ###
 
-![Image](medias/luminatura_vue.jpg) 
+![Image](medias/luminatura_resultat.jpg)  ![Image](medias/luminatura_vue.jpg) 
 Voici un lien vers une vidéo explicative de Luminatura: https://youtu.be/i6xJno_NFSc
 
 Voici un lien vers une vidéo demonstrative: https://youtube.com/shorts/1kCxPRZF66o?feature=share
