@@ -19,7 +19,7 @@ https://www.lozano-hemmer.com/pulse_room.php
 
 Dans cette image, vous pouvez voir une tablette noir. Grâce à cette tablette, nous, les participants, avons la possibilité d'illuminer les plantes de différentes couleurs. En effet, chaque fois que nous touchons la tablette, elle envoie un signal qui envoie surement un message au projecteur qui lui fait en sorte que les plantes s'illument de couleurs différentes.
 
-![Image](medias/luminatura_materiel.jpg)
+![Image](medias/luminatura_tablet.jpg)
 
 ## Liens vers d'autres projets ##
 
