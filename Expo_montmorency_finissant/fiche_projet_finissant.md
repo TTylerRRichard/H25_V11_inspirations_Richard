@@ -13,6 +13,7 @@
  Développeur interactif: Ihab Mouhajer
 
 Voici un lien vers le schéma d'installation:
+https://miaou-mafia.github.io/projet-luminatura/#/50_diffusion/?id=documentation-vid%c3%a9o-de-l39installation-en-action
 https://miaou-mafia.github.io/projet-luminatura/#/20_intention/40_scenarimage/
 
 
@@ -36,6 +37,7 @@ Lors de mon expérience, j'avais l'impression de prendre en main la nature elle-
  Monteur Vidéo, Artiste Design, programmeur: Joshua Gonzalez Barrera
 
 Voici un lien vers le schéma d'installation:
+https://ethereal-creators.github.io/Etheria/#/50_diffusion/?id=documentation-du-projet-finalis%c3%a9
 https://ethereal-creators.github.io/Etheria/#/20_intention/40_scenarimage/
 
 ![Image](medias/etheria_vue.jpg) 
@@ -54,6 +56,7 @@ Chargée du projet: Ikrame Rata
 
 
 Voici un lien vers le schéma d'installation:
+https://pootpookies.github.io/Prismatica/#/50_diffusion/?id=diffusion
 https://pootpookies.github.io/Prismatica/#/20_intention/40_scenarimage/
 
 ![Image](medias/prismatica.jpg) 
@@ -72,6 +75,7 @@ Directeur sonore: Tristan Khadka
 Programmeur: Abdel ALi Djeral
 
 Voici un lien vers le schéma d'installation:
+https://escapism-fuga.github.io/Fuga/#/50_diffusion/?id=diffusion
 https://escapism-fuga.github.io/Fuga/#/20_intention/40_scenarimage/
 
 
@@ -96,6 +100,7 @@ Gestion de l'organisation du projet, visuels, programmateuse de l'interactivité
  Design visuel, chargée du projet, programmateuse de lumière :Khaly Tia Sing
 
  Voici un lien vers le schéma d'installation:
+ https://tprangers.github.io/internature/#/50_diffusion/?id=diffusion
 https://tprangers.github.io/internature/#/20_intention/40_scenarimage/
 
 https://youtube.com/shorts/H4ZAFMYzsOs?si=WaruRasuLK9BcS7i
@@ -116,6 +121,7 @@ Responsable du développement technique: Kreven Malric
 Directeur artistiqueL Samuel Desmeules-Voyer
 
 Voici un lien vers le schéma d'installation:
+https://gearshift-games.github.io/Web-C0N-DU8/#/50_diffusion/?id=diffusion
 https://gearshift-games.github.io/Web-C0N-DU8/#/20_intention/40_scenarimage/
 
 ![Image](medias/condu_u8_ensemble.jpg) 
@@ -133,6 +139,7 @@ Conception visuelle: William Beauvais
 Programmation: Anton Nikulin
 
 Voici un lien vers le schéma d'installation:
+https://cousi-cousa.github.io/Arcadia/#/50_diffusion/?id=diffusion
 https://cousi-cousa.github.io/Arcadia/#/20_intention/40_scenarimage/
 
 ![Image](medias/arcadia_image_jeu.jpg) 
