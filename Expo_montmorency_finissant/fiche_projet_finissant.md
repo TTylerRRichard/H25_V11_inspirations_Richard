@@ -154,3 +154,7 @@ Lors de mon expérience, je n'ai pas ressenti d'émotion marquante en général.
 2: Traitement audiovisuel
 3: Réalité mixte
 
+## Le code Arduino ##
+Le code Arduino est une technique qu'au paravant je ne jamais entendu parlé qui selon le Github sur Luminatura est un code qui permet de mesurer la capacitance de l'utilisateur, qui correspond à la capacité du corps à stocker une charge électrique.
+Après un peu plus de recherche j'ai trouvé que Arduino est en fait une marque pour une plate-forme open source qui permet à l’utilisateur de créer des objets qui permettent l’interactivité. 
+Si vous cherchez plus d'information voici un lien vers une page wikipédia qui parle d'Arduino en détails: https://fr.wikipedia.org/wiki/Arduino 
