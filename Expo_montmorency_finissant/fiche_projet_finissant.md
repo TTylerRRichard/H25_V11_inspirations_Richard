@@ -16,6 +16,8 @@ Voici un lien vers le schéma d'installation:
 https://miaou-mafia.github.io/projet-luminatura/#/20_intention/40_scenarimage/
 
 
+![Image](medias/luminatura_resultat.jpg) 
+
 
 
 
