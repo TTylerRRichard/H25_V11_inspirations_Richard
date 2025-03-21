@@ -21,6 +21,9 @@ Dans cette image, vous pouvez voir une tablette noir. Grâce à cette tablette, 
 
 ![Image](medias/luminatura_tablet.jpg)
 
+Il y a aussi un petit haut-parleur qui est surement connecté à un logiciel qui produit le son entendu lors de l'expérience. Voici une image:
+![Image](medias/luminatura_projecteure.jpg)
+
 ## Liens vers d'autres projets ##
 
 https://youtube.com/shorts/ExrjkvTPhsw?feature=share
