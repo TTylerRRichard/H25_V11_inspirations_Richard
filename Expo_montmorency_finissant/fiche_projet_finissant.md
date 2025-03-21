@@ -23,7 +23,6 @@ https://miaou-mafia.github.io/projet-luminatura/#/20_intention/40_scenarimage/
 Lors de mon expérience, j'avais l'impression de prendre en main la nature elle-même, la guidant pour qu'elle exprime des émotions profondes à travers l'expérience remplit de couleurs. Ce projet était très captivant d'observer les résultats. Ce qui m'a particulièrement marqué et que j'ai le plus apprécié, c'est les couleurs elles m'ont transmis une liste d'émotions, de la tranquillité, en passant par la mélancolie, comme si chaque teinte possédait leur propre voix.
 
 
-
 ## 2: Etheria ##
 ### Créateurs/Créatrices: ###
  Compositeur Sonore, programmeur: Maik Hamel
@@ -141,4 +140,8 @@ https://cousi-cousa.github.io/Arcadia/#/20_intention/40_scenarimage/
 ## Mon expérience ##
 
 Lors de mon expérience, je n'ai pas ressenti d'émotion marquante en général. C'était une expérience qui m'a semblé assez neutre, et je l'ai joué un peu comme un autre jeu vidéo. Bien que l'aspect interactif ait été intéressant, je n'ai pas vécu de moments particulièrement captivants ou émouvants qui m'auraient vraiment marqué.
+
+# Trois cours nécessaires: #
+
+Modélisation 
 
