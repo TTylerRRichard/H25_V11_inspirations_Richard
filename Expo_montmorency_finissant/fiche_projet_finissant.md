@@ -143,5 +143,7 @@ Lors de mon expérience, je n'ai pas ressenti d'émotion marquante en général.
 
 # Trois cours nécessaires: #
 
-Modélisation 
+1: Modélisation 3D
+2: Traitement audiovisuel
+3: Réalité mixte
 
