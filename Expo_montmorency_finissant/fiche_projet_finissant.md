@@ -38,6 +38,8 @@ Voici un lien vers le schéma d'installation:
 https://ethereal-creators.github.io/Etheria/#/20_intention/40_scenarimage/
 
 
+https://youtube.com/shorts/FMZVu0R0xGc?si=V1Va9qO84JHln_YJ
+
 # 3: Prismatica #
 Développeur interactif: Vincent Delisle
 
