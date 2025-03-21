@@ -18,8 +18,7 @@ https://miaou-mafia.github.io/projet-luminatura/#/20_intention/40_scenarimage/
 
 ![Image](medias/luminatura_resultat.jpg) 
 
-
-
+Lors de mon expérience, j'avais l'impression de prendre en main la nature elle-même, la guidant pour qu'elle exprime des émotions profondes à travers l'expérience remplit de couleurs. Ce projet était très captivant d'observer les résultats. Ce qui m'a particulièrement marqué et que j'ai le plus apprécié, c'est les couleurs elles m'ont transmis une liste d'émotions, de la tranquillité, en passant par la mélancolie, comme si chaque teinte possédait leur propre voix.
 
 
 
@@ -95,6 +94,8 @@ Directeur artistiqueL Samuel Desmeules-Voyer
 
 Voici un lien vers le schéma d'installation:
 https://gearshift-games.github.io/Web-C0N-DU8/#/20_intention/40_scenarimage/
+
+
 
 # 7: Arcadia #
 Conception sonore: Dominic Yale
