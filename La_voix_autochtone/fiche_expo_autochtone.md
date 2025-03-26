@@ -29,5 +29,7 @@ Voici une vidéo qui montre quelques outils plus proche: [https://youtu.be/4Kyvw
  ## Section 2: Leur souffrance ##
 
  Dans la deuxième section de l'exposition, le ton devient plus sombre , mettant en lumière les souffrances vécues par cette nation. Les tragédies de parents qui ont vu leurs enfants leur être arrachés, emportés dans un contexte de persécution systématique. Les visiteurs peuvent lire et regarder des témoignages poignants sur la manière dont cette communauté a été déshumanisée et haïe, simplement en raison de son identité, de ses croyances et de sa culture. Les vidéos et les documents exposés témoignent de la dureté de la vie quotidienne, marquée par la violence, la pauvreté et une haine persistante, souvent exacerbée par des préjugés culturels et politiques.
+ 
+![Image](medias2/slogan_entrer21.jpg) 
 
 Des objets symboliques, tels que des masques traditionnels, sont présentés pour donner un aperçu de la résistance culturelle et spirituelle face à l'oppression. Ces masques, portés autrefois lors de rituels et de cérémonies, étaient bien plus que de simples accessoires. Ils représentaient des symboles d'identité et de dignité dans un monde qui tentait de les effacer. Leurs formes, matériaux et décorations racontent l’histoire d’un peuple qui a su préserver ses racines malgré l’adversité. À travers ces objets, on perçoit l'espoir de résilience et la volonté de survie au milieu de la violence et de la répression."
