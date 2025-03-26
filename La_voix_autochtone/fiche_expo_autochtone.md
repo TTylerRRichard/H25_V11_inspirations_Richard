@@ -14,3 +14,5 @@ Voici une vidéo qui montre quelques outils plus proche: [https://youtu.be/4Kyvw
 ![Image](media/ensemble_section1.jpg) 
 
 ![Image](media/photo_face.jpg) 
+
+![Image](media/outil1.jpg) 
