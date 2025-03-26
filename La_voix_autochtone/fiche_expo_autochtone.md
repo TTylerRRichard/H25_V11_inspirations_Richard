@@ -32,6 +32,8 @@ Voici une vidéo qui montre quelques outils plus proche: [https://youtu.be/4Kyvw
  
 ![Image](medias2/slogan_entrer21.jpeg) 
 
+![Image](medias2/slogan_entrer21.jpeg) 
+
  Les visiteurs peuvent lire et regarder des témoignages poignants sur la manière dont cette communauté a été déshumanisée et haïe, simplement en raison de son identité, de ses croyances et de sa culture. Les vidéos et les documents exposés témoignent de la dureté de la vie quotidienne, marquée par la violence, la pauvreté et une haine persistante, souvent exacerbée par des préjugés culturels et politiques.
 
 
