@@ -12,9 +12,6 @@ Dans la première section, il est question des matériaux qu’ils utilisent, de
 Dans la première section de l'exposition, l'accent était mis sur les matériaux utilisés dans la conception des équipements. Des textiles techniques et des matériaux résistants étaient mis en avant, expliquant comment ils contribuent à la performance et au confort dans des environnements extrêmes. Des vêtements spécialement conçus pour la protection.
 
 
-
-Voici une vidéo qui montre quelques outils plus proche: [https://youtu.be/4KyvwU42QQ0](https://youtube.com/shorts/4KyvwU42QQ0?feature=share)
-
 ![Image](media/ensemble_section1.jpg) 
 
 Les visiteurs pouvaient interagir avec une série de cartes qui mettaient en évidence les trajets ou les zones où ces matériaux sont utilisés. Des tablettes tactiles étaient disposées tout autour, permettant de visionner des vidéos en boucle qui expliquaient non seulement l’utilisation de l’équipement, mais aussi les processus de fabrication et les avantages de chaque innovation.
@@ -24,3 +21,5 @@ Les visiteurs pouvaient interagir avec une série de cartes qui mettaient en év
 ![Image](media/outil1.jpg) 
 
 ![Image](media/outil2.jpg) 
+
+Voici une vidéo qui montre quelques outils plus proche: [https://youtu.be/4KyvwU42QQ0](https://youtube.com/shorts/4KyvwU42QQ0?feature=share)
