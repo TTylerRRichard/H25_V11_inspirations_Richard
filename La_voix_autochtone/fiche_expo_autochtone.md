@@ -28,11 +28,11 @@ Voici une vidéo qui montre quelques outils plus proche: [https://youtu.be/4Kyvw
 
  ## Section 2: Leur souffrance ##
 
- Dans la deuxième section de l'exposition, le ton devient plus sombre , mettant en lumière les souffrances vécues par cette nation. Les tragédies de parents qui ont vu leurs enfants leur être arrachés, emportés dans un contexte de persécution systématique. Les visiteurs peuvent lire et regarder des témoignages poignants sur la manière dont cette communauté a été déshumanisée et haïe, simplement en raison de son identité, de ses croyances et de sa culture. Les vidéos et les documents exposés témoignent de la dureté de la vie quotidienne, marquée par la violence, la pauvreté et une haine persistante, souvent exacerbée par des préjugés culturels et politiques.
+ Dans la deuxième section de l'exposition, le ton devient plus sombre , mettant en lumière les souffrances vécues par cette nation. Les tragédies de parents qui ont vu leurs enfants leur être arrachés, emportés dans un contexte de persécution systématique. 
  
-![Image](medias2/slogan_entrer21.jpeg) 
+![Image](medias2/ensemble_section2.jpeg)  
 
-![Image](medias2/slogan_entrer21.jpeg) 
+![Image](medias2/ecole_catholique.jpeg)  
 
  Les visiteurs peuvent lire et regarder des témoignages poignants sur la manière dont cette communauté a été déshumanisée et haïe, simplement en raison de son identité, de ses croyances et de sa culture. Les vidéos et les documents exposés témoignent de la dureté de la vie quotidienne, marquée par la violence, la pauvreté et une haine persistante, souvent exacerbée par des préjugés culturels et politiques.
 
