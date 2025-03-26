@@ -21,11 +21,12 @@ Dans cette image, vous pouvez voir une tablette noir. Grâce à cette tablette, 
 
 ![Image](medias/luminatura_tablet.jpg)
 
-Il y a aussi un petit haut-parleur qui est surement connecté à un logiciel qui produit le son entendu lors de l'expérience et un projecteur pour les couleurs. Voici une image: 
+À côté des éléments visuels et des objets exposés, il y a aussi l'aspect sensorielle . Un petit haut-parleur, probablement relié à un logiciel spécialement conçu comme Reaper, diffuse un son enveloppant, qui semble reproduire les bruits, les voix ou les ambiances de l'époque ou de la situation décrite.
 
 ![Image](medias/luminatura_haut-parleur.jpg)
 
-
+ Ce son amplifie la connexion émotionnelle, renforçant l'intensité de l'expérience. En synchronisation avec ce son, un projecteur illumine l’espace de couleurs, créant une atmosphère visuelle en constante progression.
+ 
 ![Image](medias/luminatura_projecteure.jpg)
 
 ## Liens vers d'autres projets ##
