@@ -1,5 +1,5 @@
 # Conférence Jade Séguela, registraire, Rafael Lozano-Hemmer, Studio Antimodular #
-## introduction ##
+## Introduction ##
 Le mardi 25 mars 2025, de 12h30 à 14h00, j'ai assisté à une conférence de Jade Séguéla à la Salle Claude Legault. Elle a présenté deux projets de l'artiste Rafael Lozano-Hemmer : Sphere Packing: Bach et Shadow Tuner, et expliqué la logistique de production de ses œuvres, en détaillant les aspects techniques de ses installations interactives, qui utilisent des technologies avancées pour créer des expériences immersives.
 
 ## Résumé ##
