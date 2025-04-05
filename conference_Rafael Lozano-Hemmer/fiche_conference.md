@@ -1,28 +1,13 @@
 # Jade Séguela, registraire, Rafael Lozano-Hemmer, Studio Antimodular #
 
 ## Introduction: ##
-Le mardi 25 mars 2025, de 12h30 à 14h00, j'ai eu l'opportunité d'assister à une conférence dans la Salle Claude Legault. L'intervenante, Jade Séguéla, elle s'est présenté, a parlé de son parcours et nous a présenté deux projets de l'artist Rafael Lozano-Hemmer:
 
-Sphere Packing: Bach-de la création à la salle d'exposition.
+Le mardi 25 mars 2025, de 12h30 à 14h00, j'ai assisté à une conférence de Jade Séguéla à la Salle Claude Legault. Elle nous a présenté deux projets de l'artiste Rafael Lozano-Hemmer : Sphere Packing: Bach et Shadow Tuner, et a expliqué la logistique de production de ses œuvres. Elle a détaillé les aspects techniques de ses installations interactives, qui intègrent des technologies avancées pour créer des expériences immersives.
+## Mr. Lozano ##
 
-Produire une oeuvre sur une île déserte, le cas de Shadow Tuner.
+Rafael Lozano-Hemmer, artiste mexicain né en 1967, combine technologie, poésie, politique et science dans ses créations. Titulaire d’un bac en sciences chimiques de l’Université Concordia, il privilégie l’interactivité passive (regarder, marcher, respirer) plutôt que l’interactivité active (parler ou appuyer sur des boutons), car il préfère que les visiteurs interagissent avec l’œuvre comme dans un musée.
+Jade Séguéla, responsable de nombreuses tâches logistiques, telles que l’import/export, l’emballage, et la conservation préventive des œuvres, a une formation diversifiée. Elle détient un DEC en Arts et Lettres, un Bachelor en Beaux-Arts de l’Université Concordia, et une maîtrise en Muséologie de l’UQAM et de l’Université de Montréal. Spécialisée dans l’art numérique, elle a choisi ce domaine après avoir été frustrée par le manque de reconnaissance des arts numériques au Québec.
 
-Au cours de sa présentation, Mme Séguéla nous a expliqué en détail les différents aspects de la logistique de production des œuvres de Lozano-Hemmer. Elle a abordé la complexité technique de ses installations interactives, qui intègrent des technologies avancées 
+## Conclusion ##
 
-## Mr Lozano ##
-Rafael Lozano-Hemmer est un artiste mexicain né en 1967. Il a eu un bac en science chimie physique en 1989 de l'Université Concordia à Montréal. C'est un artiste qui mélange beaucoup la technologie, la poésie, la politique et la cience ensemble pour créer ses oeuvres.
-
-Lui et son équipe, ils travaillent plus avec l'intéractivité passive, c'est-à-dire regarder, marcher ou respirer et l'intéractivité active: parler, swiper ou button. Lozano a une préférence sur l'intéractivité passive, car ça lui intéresse moins qu'un visiteur soit en train de jouer avec des bouttons. Il préfére que ça soit plutôt comme l'intéraction avec des oeuvres dans les musées.
-
-
-## Les galleries ##
-
-### Bitforms gallery ###
-à New York
-### Wilde Gallery ###
-à Basel, Geneva et Zurich
-### Galeria Max Estrella ###
-à Madrid
-
-### Pace Gallery ###
-à New York, Londre, Hong Kong, Seoul, etc.
+J'ai apprécié la conférence, découvrant l'art de Rafael Lozano-Hemmer et la complexité de la logistique derrière ses œuvres. Cela m'a montré à quel point le parcours artistique est exigeant et fascinant.
