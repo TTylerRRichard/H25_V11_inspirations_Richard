@@ -15,3 +15,5 @@ Jade Séguéla, responsable de la logistique des œuvres (import/export, emballa
 
 En conclusion,  j'ai beaucoup apprécié la conférence, découvrir l'art de Rafael Lozano-Hemmer et la complexité de la logistique derrière ses œuvres,car cela m'a permis de comprendre à quel point le parcours artistique est exigeant et fascinant.
 
+
+https://www.lozano-hemmer.com/exhibitions.php
