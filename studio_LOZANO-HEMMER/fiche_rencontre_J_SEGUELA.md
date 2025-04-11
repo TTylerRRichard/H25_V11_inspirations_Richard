@@ -15,3 +15,7 @@ En conclusion, j'ai beaucoup apprécié la conférence, découvrir l'art de Rafa
 ![Image](media/unstable_presence_montreal.jpg) 
 
 https://www.lozano-hemmer.com/exhibitions.php
+
+Musée d'Art Contemporain de Montréal, Montréal, Québec, Canada
+Du 23 mai au 9 septembre 2018
+Commissaires : Rudolf Frieling et Lesley Johnstone
