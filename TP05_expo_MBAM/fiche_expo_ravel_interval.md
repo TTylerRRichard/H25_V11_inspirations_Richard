@@ -1,5 +1,5 @@
 # Ravel Ravel interval #
-## Une exposition temporaire: jusquau 27 Avril ##
+## Une exposition temporaire: jusqu'au 27 Avril ##
 
 ![Image](media/oeuvre_vue_face.jpg) 
 
@@ -10,3 +10,5 @@ L’installation comprend deux écrans illustrant les vidéos de près par des p
 #### Le projecteur ####
 ![Image](media/projecteur.jpg) 
 
+#### Les principaux haut-parleurs ####
+![Image](media/haut_parleur_vue.jpg) 
