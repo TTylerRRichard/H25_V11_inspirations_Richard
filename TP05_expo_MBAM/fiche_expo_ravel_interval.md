@@ -22,7 +22,7 @@ La salle est conçue pour plonger les spectateurs dans un environnement sensorie
 Voici un lien vers la page web: https://www.mbam.qc.ca/fr/expositions/anri-sala/
 
 J'ai fais un peu plus de recherche et j'ai trouvé une vidéo de Louis Lortie qui parle de la pièce.
-Voici le lien vers la vidéo de Louis Lortie: https://youtu.be/8GIjffOPR_4?si=9phXlXO2Lv1JNErs
+Voici le lien vers la vidéo: https://youtu.be/8GIjffOPR_4?si=9phXlXO2Lv1JNErs
 
 ### Signification ###
 Le titre Ravel Ravel Interval est un jeux de mot du nom du compositeur et le terme "intervalle", soulignant le décalage temporel et spatial entre les deux interprétations.
