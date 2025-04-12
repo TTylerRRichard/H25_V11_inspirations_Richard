@@ -15,6 +15,4 @@ L’installation comprend deux écrans illustrant les vidéos de près par des p
 
 ![Image](media/haut-parleur.jpg) 
 
------------------------------
-
 Voici un lien vers la page web: https://www.mbam.qc.ca/fr/expositions/anri-sala/
