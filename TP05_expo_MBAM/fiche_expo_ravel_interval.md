@@ -7,5 +7,6 @@ Ravel Ravel interval est un oeuvre fait par Anri Sala un albano-français. Les m
 
 L’installation comprend deux écrans illustrant les vidéos de près par des projecteurs qui montrent les performances du pianiste et un système d'audio d'haut-parleur disperçé un peu partout dans la salle. . Elle crée un espace sensoriel où les visiteurs peuvent ressentir la tension physique et émotionnelle peu importe où ils sont dans la pièce.
 
+#### Le projecteur ####
 ![Image](media/projecteur.jpg) 
 
