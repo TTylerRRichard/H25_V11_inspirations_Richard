@@ -6,8 +6,6 @@ https://youtu.be/v8Xr8mjKujw
 
  ## Section 1: Les matériaux ##
 
-Dans la première section, il est question des matériaux qu’ils utilisent, de leurs vêtements, etc. Il montrait également de nombreuses cartes et il y avait de petites tablettes avec des vidéos en boucle qui expliquaient comment utiliser l’équipement à côté.
-
 Dans la première section de l'exposition, l'accent était mis sur les matériaux utilisés dans la conception des équipements. Des textiles techniques et des matériaux résistants étaient mis en avant, expliquant comment ils contribuent à la performance et au confort dans des environnements extrêmes. Des vêtements spécialement conçus pour la protection.
 
 
