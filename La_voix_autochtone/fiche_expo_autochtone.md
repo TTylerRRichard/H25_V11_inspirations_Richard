@@ -1,4 +1,7 @@
 # La Voix Autochtone #
+
+Voici une vidéo qui montre le tout: https://youtu.be/85LtbCPoTzk?si=y_BCXRsC-Dnafb5q
+
  Dès que j’ai vu La voix des autochtones dans la liste, je l’ai choisi parce que je sais qu’ils ont traversé beaucoup de choses et que leur culture est tellement riche. Je ne sais pas pour vous , mais je trouve que leurs histoires sont intéressantes et tristes mais aussi inspirantes.
 
 Voici une vidéo de l'entrer:
