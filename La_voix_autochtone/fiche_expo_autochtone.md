@@ -40,4 +40,6 @@ Les visiteurs peuvent lire et regarder des témoignages poignants sur la manièr
 ![Image](medias2/texte_perte.jpeg)  
 
 
-Des objets symboliques, tels que des masques traditionnels, sont présentés pour donner un aperçu de la résistance culturelle et spirituelle face à l'oppression. Ces masques, portés autrefois lors de rituels et de cérémonies, étaient bien plus que de simples accessoires. Ils représentaient des symboles d'identité et de dignité dans un monde qui tentait de les effacer. Leurs formes, matériaux et décorations racontent l’histoire d’un peuple qui a su préserver ses racines malgré l’adversité. À travers ces objets, on perçoit l'espoir de résilience et la volonté de survie au milieu de la violence et de la répression.
+Des objets symboliques comme des masques traditionnels sont présentés our donner un aperçu de la résistance culturelle et spirituelle face à l'oppression. Ces masques, portés autrefois lors de rituels et de cérémonies, étaient bien plus que de simples accessoires. Ils représentaient des symboles d'identité et de dignité dans un monde qui tentait de les effacer. Leurs formes, matériaux et décorations racontent l’histoire d’un peuple qui a su préserver ses racines malgré l’adversité. À travers ces objets, on perçoit l'espoir de résilience et la volonté de survie au milieu de la violence et de la répression.
+
+![Image](medias2/habit.jpeg) 
