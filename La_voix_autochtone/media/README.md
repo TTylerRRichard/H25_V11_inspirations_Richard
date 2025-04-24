@@ -1,1 +1,1 @@
-Voici le dossier contenant tous mes médias du tp3
+Voici le dossier contenant tous mes images de la section 1
