@@ -48,6 +48,6 @@ Des objets symboliques comme des masques traditionnels sont présentés our donn
  ## Section 3: L'harmonie qui vient avec l'alliance ##
 
 Dans la dernière section, rassemble et met en lumière l'idée d'union, de paix, d'harmonie et comment on peut faire pour guérir du passé.
- Elle met en valeur leurs efforts pour restaurer la santé et le bien-être, perturbés par les politiques d’assimilation historiques, en partageant leurs histoires, leurs rêves et leurs visions pour un avenir meilleur. Cette partie conclue de l’exposition invite les visiteurs à s’engager dans un dialogue significatif et favorise une compréhension plus profonde des perspectives autochtones.
+ Elle met en valeur leurs efforts pour restaurer la santé et le bien-être, perturbés par les politiques d’assimilation historiques, en partageant leurs histoires, leurs rêves et leurs visions pour un avenir meilleur. Cette partie conclue de l’exposition invite les visiteurs à s’engager dans un dialogue significatif.
 
-![Image](medias3/titre.jpeg) 
+
