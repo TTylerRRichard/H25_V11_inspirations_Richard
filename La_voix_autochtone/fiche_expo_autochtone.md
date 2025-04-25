@@ -1,4 +1,5 @@
 # La Voix Autochtone #
+## Exposition permanente ##
 
 Voici une vidéo qui montre le tout: https://youtu.be/85LtbCPoTzk?si=y_BCXRsC-Dnafb5q
 
@@ -40,14 +41,14 @@ Les visiteurs peuvent lire et regarder des témoignages poignants sur la manièr
 ![Image](medias2/texte_perte.jpeg)  
 
 
-Des objets symboliques comme des masques traditionnels sont présentés our donner un aperçu de la résistance culturelle et spirituelle face à l'oppression. Ces masques, portés autrefois lors de rituels et de cérémonies, étaient bien plus que de simples accessoires. Ils représentaient des symboles d'identité et de dignité dans un monde qui tentait de les effacer. Leurs formes, matériaux et décorations racontent l’histoire d’un peuple qui a su préserver ses racines malgré l’adversité. À travers ces objets, on perçoit l'espoir de résilience et la volonté de survie au milieu de la violence et de la répression.
+Des objets symboliques comme des masques traditionnels sont présentés our donner un aperçu de la résistance culturelle et spirituelle face à l'oppression. Ces masques, portés autrefois lors de rituels et de cérémonies, étaient bien plus que de simples accessoires. Ils représentaient des syboles d'identité et de dignité dans un monde qui tentait de les effacer. Leurs formes, matériaux et décorations racontent l’histoire d’un peuple qui a su préserver ses racines malgré l’adversité. À travers ces objets, on perçoit l'espoir de résilience et la volonté de survie au milieu de la violence et de la répression.
 
 ![Image](medias2/habit.jpeg) 
 
 
  ## Section 3: L'harmonie qui vient avec l'alliance ##
 
-Dans la dernière section, rassemble et met en lumière l'idée d'union, de paix, d'harmonie et comment on peut faire pour guérir du passé.
+La dernière section rassemble et met en lumière l'idée d'union, de paix, d'harmonie et comment on peut faire pour guérir du passé.
  Elle met en valeur leurs efforts pour restaurer la santé et le bien-être, perturbés par les politiques d’assimilation historiques, en partageant leurs histoires, leurs rêves et leurs visions pour un avenir meilleur. Cette partie conclue de l’exposition invite les visiteurs à s’engager dans un dialogue significatif.
 
-
+![Image](medias3/broche_ronde.jpeg) 
