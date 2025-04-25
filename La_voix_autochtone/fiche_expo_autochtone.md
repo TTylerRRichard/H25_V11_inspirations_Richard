@@ -52,3 +52,10 @@ La dernière section rassemble et met en lumière l'idée d'union, de paix, d'ha
  Elle met en valeur leurs efforts pour restaurer la santé et le bien-être, perturbés par les politiques d’assimilation historiques, en partageant leurs histoires, leurs rêves et leurs visions pour un avenir meilleur. Cette partie conclue de l’exposition invite les visiteurs à s’engager dans un dialogue significatif.
 
 ![Image](medias3/broche_ronde.jpeg) 
+
+![Image](medias3/.jpeg) 
+
+
+
+
+Pour conclure, d'après le site du Musée McCord Stewart, l'exposition *Voix autochtones aujourd'hui* met en lumière une centaine d’objets issus de la collection Cultures autochtones du Musée, soigneusement sélectionnés, ainsi que plus de 80 témoignages, sous forme de textes et de vidéos, provenant de membres des 11 nations autochtones du Québec. Ces contributions visent à partager leurs savoirs et philosophies. Elles reflètent également un désir de retrouver la santé, mise à mal par des politiques d’assimilation, en abordant les souffrances passées tout en exprimant leurs rêves et projets pour un avenir meilleur.
