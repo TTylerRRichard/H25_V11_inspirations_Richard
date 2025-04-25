@@ -53,7 +53,7 @@ La dernière section rassemble et met en lumière l'idée d'union, de paix, d'ha
 
 ![Image](medias3/broche_ronde.jpeg) 
 
-![Image](medias3/.jpeg) 
+![Image](medias3/travail_texte.jpeg) 
 
 
 
