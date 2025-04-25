@@ -56,5 +56,10 @@ La dernière section rassemble et met en lumière l'idée d'union, de paix, d'ha
 
 Pour conclure, d'après le site du Musée McCord Stewart, l'exposition *Voix autochtones aujourd'hui* met en lumière une centaine d’objets issus de la collection Cultures autochtones du Musée, soigneusement sélectionnés, ainsi que plus de 80 témoignages, sous forme de textes et de vidéos, provenant de membres des 11 nations autochtones du Québec. Ces contributions visent à partager leurs savoirs et philosophies. Elles reflètent également un désir de retrouver la santé, mise à mal par des politiques d’assimilation, en abordant les souffrances passées tout en exprimant leurs rêves et projets pour un avenir meilleur.
 
+Voici une vidéo de l'ensemble de la troisième section: https://youtu.be/niE0CUDIBb0
+
+Voici une vidéo des tablets et télépones: https://youtu.be/X8St9W-nDCo
+
+
 ## Voici le crédit ##
 ![Image](medias3/credit.jpeg) 
